@@ -36,3 +36,9 @@ function calculate() {
     // Display the result
     document.getElementById("result").textContent = result;
 }
+
+function name(name)
+{
+    alert("your name is " + name);
+    
+}
